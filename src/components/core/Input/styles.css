@@ -1,0 +1,5 @@
+.Input:focus~.floating-label,
+.Input:valid~.floating-label {
+    font-size: 11px;
+    top: 0px;
+}
